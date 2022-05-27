@@ -60,8 +60,11 @@ I am a software engineer and an Msc Computer Science graduate from UCD. Skilled 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingstr3&theme=tokyonight) 
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingstr3)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingstr3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
